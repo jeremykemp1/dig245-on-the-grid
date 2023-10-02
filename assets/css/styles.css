@@ -1,2 +1,41 @@
 
 /* css */
+
+.BEE {
+    font-weight: bold;
+    font-size: 30pt; 
+
+}
+
+.Home, .News, .Sport, .Search {
+    font-weight: bold;
+}
+
+.hoverable-text:hover {
+    color: red;
+}
+
+.hoverable-head:hover {
+    text-decoration: underline;
+}
+
+.NEWS {
+    color: white;
+    background-color: #A92216;
+    font-weight: bold; 
+    font-size: 28pt; 
+}
+
+.Header {
+    font-weight: bold; 
+    font-size: 36pt; 
+}
+
+.HeaderSubText{
+    font-size: 18pt;
+}
+
+.LinkedHead{
+    font-weight: bold; 
+    font-size: 20pt; 
+}
